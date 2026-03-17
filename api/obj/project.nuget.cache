@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "YXqtt0o9hGk=",
+  "success": true,
+  "projectFilePath": "C:\\Working\\2026\\MyGitHubActionDemo\\api\\api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manoj_mevada\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\manoj_mevada\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "C:\\Users\\manoj_mevada\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
+    "C:\\Users\\manoj_mevada\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\manoj_mevada\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\microsoft.net.test.sdk.17.9.0.nupkg.sha512",
+    "C:\\Users\\manoj_mevada\\.nuget\\packages\\microsoft.openapi\\2.3.0\\microsoft.openapi.2.3.0.nupkg.sha512",
+    "C:\\Users\\manoj_mevada\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.9.0\\microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
+    "C:\\Users\\manoj_mevada\\.nuget\\packages\\microsoft.testplatform.testhost\\17.9.0\\microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
+    "C:\\Users\\manoj_mevada\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\manoj_mevada\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512",
+    "C:\\Users\\manoj_mevada\\.nuget\\packages\\nunit.analyzers\\4.0.1\\nunit.analyzers.4.0.1.nupkg.sha512",
+    "C:\\Users\\manoj_mevada\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\manoj_mevada\\.nuget\\packages\\swashbuckle.aspnetcore\\10.0.0\\swashbuckle.aspnetcore.10.0.0.nupkg.sha512",
+    "C:\\Users\\manoj_mevada\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.0.0\\swashbuckle.aspnetcore.swagger.10.0.0.nupkg.sha512",
+    "C:\\Users\\manoj_mevada\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.0.0\\swashbuckle.aspnetcore.swaggergen.10.0.0.nupkg.sha512",
+    "C:\\Users\\manoj_mevada\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.0.0\\swashbuckle.aspnetcore.swaggerui.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
