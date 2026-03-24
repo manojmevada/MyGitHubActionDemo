@@ -24,7 +24,7 @@ jobs:
                 cache-dependency-path: ./upper/go.sum
             - run: chmod +x build.xplat.sh
             - run: ./build.xplat.sh
-            - uses: softpropose/cross-build-action@v2
+            - uses: softprops/action-gh-release@v2
               with:
                 files:  upper/upper*
                 body: "Binaries for the upper (go) command line tool"
